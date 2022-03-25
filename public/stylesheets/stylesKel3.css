@@ -1,0 +1,56 @@
+/* Kelompok 3 */
+
+/* body {
+  font-family: "Poppins";
+  font-size: 14px;
+  font-weight: lighter;
+} */
+
+thead {
+  background: #cfd4ed;
+}
+tbody {
+  background-color: white;
+}
+
+.drop .form-select {
+  width: 62px;
+  height: 36px;
+  font-size: 12px;
+}
+
+.jtp .form-select {
+  width: 76px;
+  height: 36px;
+  font-size: 12px;
+}
+.paging nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+a.page-link {
+  height: 38px;
+  width: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #8a8a8a;
+}
+.page-item.active .page-link {
+  background: #cfd4ed;
+  color: #0d28a6;
+  border-color: #0d28a6;
+}
+.form-select {
+  display: inline;
+}
+.btn-1 {
+  display: inline;
+  background: #0d28a6;
+  color: #fff;
+  width: 43px;
+  height: 36px;
+}
+
+/* END Kelompok 3 */
